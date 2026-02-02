@@ -1,10 +1,8 @@
 # Git-Collaborative-Lab-M8P1
 
-\## Collaborator
+\## Collaborator ##
 
-Name: Srinu Yejarla  
+Name: Srinu Yejarla
 
 Team: M8P1
-
-
 
